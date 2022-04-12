@@ -37443,6 +37443,34 @@ svg{width:auto !important;}
   .epm-adding ul li {
     width: 20%;
   }
+
+
+.lazyloaded{
+    display: none !important;
+    margin-left: 1000vw !important;
+  }
+.switch{
+    width: 100% !important;
+    height: 100vh !important;
+    margin-left: 200vw !important;
+}
+.logo-box{
+    padding-top: 10px !important;
+}
+.nav-flex-bottom{
+    padding-bottom: 47px !important;
+}
+.nav-right{
+    padding-bottom: 47px !important;
+}
+
+.menu-item-click{
+    margin-right: 2% !important;
+}
+.nav-menu-container{
+    padding-bottom: 47px !important;
+}
+
   
 
     
